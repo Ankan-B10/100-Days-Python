@@ -1,0 +1,7 @@
+print(5+3)
+print(5-3)
+print(5*3)
+print("divi =",5/3)
+print("Not give point value of divi =",5//3)
+print(5%3)
+print("Exponential =",5**3)
